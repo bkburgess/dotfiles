@@ -1,0 +1,10 @@
+
+
+OPTIONS=msg_window:full
+OPTIONS=BOULDER=0
+OPTIONS=pickup_types:?!/=$"
+OPTIONS=color
+OPTIONS=hilite_pet
+OPTIONS=showexp
+OPTIONS=time
+OPTIONS=hitpointbar
